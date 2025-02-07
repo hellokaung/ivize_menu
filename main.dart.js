@@ -63323,7 +63323,7 @@ A.a_8.prototype={
 $0(){},
 $S:0}
 A.DK.prototype={
-L(a){return new A.ub(A.ak3(A.aha(B.E9),new A.qT(null)),"Material App",!1,null)}}
+L(a){return new A.ub(A.ak3(A.aha(B.E9),new A.qT(null)),"MyViza",!1,null)}}
 A.qT.prototype={
 an(){return new A.Hu(A.b([],t.lR))}}
 A.Hu.prototype={
