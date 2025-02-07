@@ -2,8 +2,10 @@
    {
       "id":"1",
       "title":"Pulpo Gallego",
+"time":"15min",
       "en":"Grilled galician octopus tentacle over potato foam. Served with smoked paprika, and green oil.",
       "price":"370",
+
       "price2":"",
       "photo":"https://lh3.googleusercontent.com/p/AF1QipNKmKlVqNPhgxrJk1771e2A4mbTfrZv6_KwUfQg=s680-w680-h510-rw",
       "vegan":"0",
