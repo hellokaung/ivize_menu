@@ -1,16 +1,134 @@
-{"food":[
-   {
-      "id":"1",
-      "title":"Pulpo Gallego",
-"time":"15min",
-      "en":"Grilled galician octopus tentacle over potato foam. Served with smoked paprika, and green oil.",
-      "price":"370",
-
-      "price2":"",
-      "photo":"https://lh3.googleusercontent.com/p/AF1QipNKmKlVqNPhgxrJk1771e2A4mbTfrZv6_KwUfQg=s680-w680-h510-rw",
-      "vegan":"0",
-      "thumbnail":"https://lh5.googleusercontent.com/p/AF1QipNKmKlVqNPhgxrJk1771e2A4mbTfrZv6_KwUfQg=w640-h640-n-k-no",
-      "category":"tapas",
-      "food":"1"
-   }
-]}
+{
+  "food": [
+    {
+      "id": "1",
+      "title": "BOMBA IBERICA",
+      "time": "15min",
+      "en": "Spanish Jamon Iberico croquettes served with Romesco sauce and basil microgreens.",
+      "price": "200",
+      "price2": "",
+      "photo": "https://via.placeholder.com/680?text=BOMBA+IBERICA",
+      "vegan": "0",
+      "thumbnail": "https://via.placeholder.com/640?text=BOMBA+IBERICA",
+      "category": "tapas",
+      "food": "1"
+    },
+    {
+      "id": "2",
+      "title": "BOMBA SETAS",
+      "time": "15min",
+      "en": "Portobello mushrooms & Black truffle croquettes served with Romesco.",
+      "price": "200",
+      "price2": "",
+      "photo": "https://via.placeholder.com/680?text=BOMBA+SETAS",
+      "vegan": "0",
+      "thumbnail": "https://via.placeholder.com/640?text=BOMBA+SETAS",
+      "category": "tapas",
+      "food": "1"
+    },
+    {
+      "id": "3",
+      "title": "PADRON PEPPERS",
+      "time": "15min",
+      "en": "Grilled Padron Peppers imported from Galicia with salt flakes & crispy garlic.",
+      "price": "250",
+      "price2": "",
+      "photo": "https://via.placeholder.com/680?text=PADRON+PEPPERS",
+      "vegan": "0",
+      "thumbnail": "https://via.placeholder.com/640?text=PADRON+PEPPERS",
+      "category": "tapas",
+      "food": "1"
+    },
+    {
+      "id": "4",
+      "title": "TORTILLA",
+      "time": "15min",
+      "en": "Classic Spanish potato omelet with confited onion, topped with chorizo iberico and served with aioli.",
+      "price": "170",
+      "price2": "",
+      "photo": "https://via.placeholder.com/680?text=TORTILLA",
+      "vegan": "0",
+      "thumbnail": "https://via.placeholder.com/640?text=TORTILLA",
+      "category": "tapas",
+      "food": "1"
+    },
+    {
+      "id": "5",
+      "title": "GAZPACHO",
+      "time": "15min",
+      "en": "Refreshing Andalusian tomato cold soup, served with parsley oil & crispy jamon dust.",
+      "price": "150",
+      "price2": "",
+      "photo": "https://via.placeholder.com/680?text=GAZPACHO",
+      "vegan": "0",
+      "thumbnail": "https://via.placeholder.com/640?text=GAZPACHO",
+      "category": "tapas",
+      "food": "1"
+    },
+    {
+      "id": "6",
+      "title": "PULPO GALLEGO",
+      "time": "15min",
+      "en": "Grilled Galician octopus, served with potato foam, green oil, seaweed caviar & piquillo sauce.",
+      "price": "370",
+      "price2": "",
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipNKmKlVqNPhgxrJk1771e2A4mbTfrZv6_KwUfQg=s680-w680-h510-rw",
+      "vegan": "0",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNKmKlVqNPhgxrJk1771e2A4mbTfrZv6_KwUfQg=w640-h640-n-k-no",
+      "category": "tapas",
+      "food": "1"
+    },
+    {
+      "id": "7",
+      "title": "GARLIC GAMBAS",
+      "time": "15min",
+      "en": "Spanish sautéed shrimps 'pil pil', with garlic, cayenne pepper, flameed with Brandy.",
+      "price": "260",
+      "price2": "",
+      "photo": "https://via.placeholder.com/680?text=GARLIC+GAMBAS",
+      "vegan": "0",
+      "thumbnail": "https://via.placeholder.com/640?text=GARLIC+GAMBAS",
+      "category": "tapas",
+      "food": "1"
+    },
+    {
+      "id": "8",
+      "title": "BRAVAS",
+      "time": "15min",
+      "en": "Triple cooked potatoes served with homemade aioli and our special 'Brava' sauce.",
+      "price": "150",
+      "price2": "",
+      "photo": "https://via.placeholder.com/680?text=BRAVAS",
+      "vegan": "0",
+      "thumbnail": "https://via.placeholder.com/640?text=BRAVAS",
+      "category": "tapas",
+      "food": "1"
+    },
+    {
+      "id": "9",
+      "title": "TORREZNOS",
+      "time": "15min",
+      "en": "Confited crispy pork belly, served with honey mustard, crispy onions and rambo radish.",
+      "price": "175",
+      "price2": "",
+      "photo": "https://via.placeholder.com/680?text=TORREZNOS",
+      "vegan": "0",
+      "thumbnail": "https://via.placeholder.com/640?text=TORREZNOS",
+      "category": "tapas",
+      "food": "1"
+    },
+    {
+      "id": "10",
+      "title": "TXIPIRONES",
+      "time": "15min",
+      "en": "Deep fry baby squid in beer tempura, served with aioli, and black mayo with 'bay chamuang' and calamansi.",
+      "price": "180",
+      "price2": "",
+      "photo": "https://via.placeholder.com/680?text=TXIPIRONES",
+      "vegan": "0",
+      "thumbnail": "https://via.placeholder.com/640?text=TXIPIRONES",
+      "category": "tapas",
+      "food": "1"
+    }
+  ]
+}
